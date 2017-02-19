@@ -11,7 +11,7 @@ import org.common.vo.Product;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-@Path("/pc")
+@Path("/prodcatalogue")
 public class ProductCatalogueRestEP {
 	
 	@Path("/products")

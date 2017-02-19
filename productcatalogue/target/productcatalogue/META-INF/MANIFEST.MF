@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Class-Path: common.jar spring-boot-starter-web-1.4.3.RELEASE.jar sprin
+ g-boot-starter-1.4.3.RELEASE.jar spring-boot-1.4.3.RELEASE.jar spring
+ -core-4.3.5.RELEASE.jar spring-context-4.3.5.RELEASE.jar spring-aop-4
+ .3.5.RELEASE.jar spring-beans-4.3.5.RELEASE.jar spring-expression-4.3
+ .5.RELEASE.jar spring-boot-autoconfigure-1.4.3.RELEASE.jar spring-boo
+ t-starter-logging-1.4.3.RELEASE.jar logback-classic-1.1.8.jar logback
+ -core-1.1.8.jar slf4j-api-1.7.22.jar jcl-over-slf4j-1.7.22.jar jul-to
+ -slf4j-1.7.22.jar log4j-over-slf4j-1.7.22.jar snakeyaml-1.17.jar spri
+ ng-boot-starter-tomcat-1.4.3.RELEASE.jar tomcat-embed-core-8.5.6.jar 
+ tomcat-embed-el-8.5.6.jar tomcat-embed-websocket-8.5.6.jar hibernate-
+ validator-5.2.4.Final.jar validation-api-1.1.0.Final.jar jboss-loggin
+ g-3.3.0.Final.jar classmate-1.3.3.jar jackson-databind-2.8.5.jar jack
+ son-annotations-2.8.5.jar jackson-core-2.8.5.jar spring-web-4.3.5.REL
+ EASE.jar spring-webmvc-4.3.5.RELEASE.jar resteasy-jaxrs-2.2.1.GA.jar 
+ jaxrs-api-2.2.1.GA.jar scannotation-1.0.3.jar javassist-3.12.1.GA.jar
+  jsr250-api-1.0.jar activation-1.1.jar commons-httpclient-3.1.jar com
+ mons-logging-1.0.4.jar commons-codec-1.10.jar httpclient-4.5.2.jar ht
+ tpcore-4.4.5.jar jcip-annotations-1.0.jar resteasy-jackson-provider-2
+ .2.1.GA.jar jackson-core-asl-1.6.3.jar jackson-mapper-asl-1.6.3.jar j
+ ackson-jaxrs-1.6.3.jar jackson-xc-1.6.3.jar
+
